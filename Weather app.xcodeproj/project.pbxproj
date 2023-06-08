@@ -14,6 +14,7 @@
 		8C09E1B82A31DD6800416B9A /* Weather_app.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8C09E1B62A31DD6800416B9A /* Weather_app.xcdatamodeld */; };
 		8C09E1BA2A31DD6900416B9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C09E1B92A31DD6900416B9A /* Assets.xcassets */; };
 		8C09E1BD2A31DD6900416B9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C09E1BB2A31DD6900416B9A /* LaunchScreen.storyboard */; };
+		8C09E1C52A31DE4800416B9A /* sun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C09E1C42A31DE4800416B9A /* sun.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8C09E1B92A31DD6900416B9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8C09E1BC2A31DD6900416B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8C09E1BE2A31DD6900416B9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8C09E1C42A31DE4800416B9A /* sun.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sun.jpg; path = ../../../Downloads/sun.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				8C09E1AF2A31DD6800416B9A /* SceneDelegate.swift */,
 				8C09E1B12A31DD6800416B9A /* ViewController.swift */,
 				8C09E1B32A31DD6800416B9A /* Main.storyboard */,
+				8C09E1C42A31DE4800416B9A /* sun.jpg */,
 				8C09E1B92A31DD6900416B9A /* Assets.xcassets */,
 				8C09E1BB2A31DD6900416B9A /* LaunchScreen.storyboard */,
 				8C09E1BE2A31DD6900416B9A /* Info.plist */,
@@ -130,6 +133,7 @@
 			files = (
 				8C09E1BD2A31DD6900416B9A /* LaunchScreen.storyboard in Resources */,
 				8C09E1BA2A31DD6900416B9A /* Assets.xcassets in Resources */,
+				8C09E1C52A31DE4800416B9A /* sun.jpg in Resources */,
 				8C09E1B52A31DD6800416B9A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
